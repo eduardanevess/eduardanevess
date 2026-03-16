@@ -6,8 +6,11 @@
 
 ###
 
-  <!-- Introducing - Typing Text -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Olá!!+Sou+a+Eduarda+tenho+22+anos.;Estudando+para+ser+Engenheira+de+Dados)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Olá!+Sou+a+Eduarda!.;Estudando+para+ser+Engenheira+de+Dados!)](https://git.io/typing-svg)
+
+</p>
 
 ###
 
