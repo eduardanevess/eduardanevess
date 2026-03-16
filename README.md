@@ -1,3 +1,5 @@
+<div align=center>
+
 <br clear="both">
 
 <div>
@@ -14,11 +16,7 @@
 
 ###
 
-<p align="left">Desenvolvedora de software de São Paulo, apaixonada por tecnologia e dados.  <br>Tenho interesse em desenvolvimento de software e engenharia de dados.</p>
-
-###
-
-<p align="left">🎓 Graduação: Desenvolvimento de Software Multiplataforma<br>📚 Pós-graduação: Engenharia de Software  <br>📖 Pós-graduação: Ciência de Dados e Inteligência Artificial (em andamento)<br><br>🎯 Interesses: Desenvolvimento de software, engenharia de dados e análise de dados  <br>🎲 Fun fact: Sempre explorando novas tecnologias e aprendendo algo novo na área de tecnologia</p>
+<p align="v">Desenvolvedora de software de São Paulo, apaixonada por tecnologia e dados.  <br>Tenho interesse em desenvolvimento de software e engenharia de dados.</p>
 
 ###
 
@@ -57,4 +55,5 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 </div>
