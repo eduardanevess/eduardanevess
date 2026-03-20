@@ -16,7 +16,7 @@
 
 ###
 
-<p align="v">Desenvolvedora de software de São Paulo, apaixonada por tecnologia e dados.  <br>Estudando para ser engenharia de dados.</p>
+<p align="v">Desenvolvedora de software de São Paulo, apaixonada por tecnologia e dados.  
 
 ###
 
